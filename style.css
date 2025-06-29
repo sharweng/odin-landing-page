@@ -27,9 +27,53 @@ ul {
 li {
     font-size: 18px;
     color: #e5e7eb;
+    cursor: pointer;
 }
 
 .logo {
     font-size: 24px;
     font-weight: bold;
+    cursor: pointer;
+}
+
+.section-one {
+    background-color: #1f2937;
+    color: white;
+    padding: 80px 12% 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+    padding-bottom: 12px;
+}
+
+.right {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+    min-height: 222px;
+    max-height: 325px;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
+    padding: 4px 24px;
+
+    font-size: 18px;
+    font-weight: bold;
+    border-color: #3882f6;
+    border-radius: 6px;
+    border-style: solid;
+    cursor: pointer;
 }
