@@ -77,3 +77,38 @@ button {
     border-style: solid;
     cursor: pointer;
 }
+
+.section-two {
+    padding: 36px 12% 100px;
+    text-align: center;
+}
+
+.big-text {
+    font-size: 36px;
+    font-weight: 900;
+    padding-bottom: 36px;
+}
+
+.card-container {
+    display: flex;
+    gap: 48px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 170px;
+}
+
+.card-image {
+    border: #3882f6 solid 4px;
+    border-radius: 16px;
+    width: 170px;
+    height: 170px;
+    object-fit: cover;
+    margin-bottom: 8px;
+}
+
+.card-text {
+    font-size: 18px;
+}
