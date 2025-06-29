@@ -112,3 +112,28 @@ button {
 .card-text {
     font-size: 18px;
 }
+
+.section-three {
+    padding: 100px 12% 79px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-container {
+    max-width: 770px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.person {
+    text-align: end;
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 40px;
+}
