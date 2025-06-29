@@ -165,3 +165,10 @@ button {
 .down-button {
     border-color: white;
 }
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 36px 12%;
+    text-align: center;
+}
