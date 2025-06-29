@@ -137,3 +137,31 @@ button {
     font-weight: bold;
     padding-right: 40px;
 }
+
+.section-four {
+    padding: 100px 12%;
+}
+
+.blue-container {
+    background-color: #3882f6;
+    color: white;
+    padding: 42px 12%;
+    text-align: les ;
+    display: flex;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.up-text {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.down-text {
+    font-size: 18px;
+}
+
+.down-button {
+    border-color: white;
+}
